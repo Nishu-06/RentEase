@@ -7,7 +7,7 @@ class ApiClient {
   // For Android emulator, use 10.0.2.2:8080
   // For iOS simulator, use localhost:8080
   // For physical device, use your computer's IP address
-  static const String baseUrl = 'http://localhost:8080';
+  static const String baseUrl = 'https://rentease-cnt1.onrender.com';
   
   // Alternative: Use 127.0.0.1 if localhost doesn't work
   // static const String baseUrl = 'http://127.0.0.1:8080';
